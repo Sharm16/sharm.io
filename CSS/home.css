@@ -1,0 +1,30 @@
+.Icon {
+    margin-left: -5vw;
+    max-width: 20%;
+    height: auto;
+    display: block;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.iconName {
+    color: white;
+    margin-top: -15px;
+    font-size: 15px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.help {
+    cursor: pointer;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+}
